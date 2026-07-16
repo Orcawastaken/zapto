@@ -1,1 +1,1 @@
-<img:https://example.com/image.jpg> <Date:7/16/26> "Your post title here"
+<img:https://raw.githubusercontent.com/Orcawastaken/zapto/refs/heads/main/images/servericon.png> <Date:7/16/26> "The Brand New ZaptoAnarchy Website is now up! Join now using the IP on the website!"
